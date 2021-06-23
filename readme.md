@@ -9,6 +9,23 @@ Play a song with a simple rhythm track! BONFIRE is a simple drum sequencer built
 ## [DOWNLAOD FOR SMARTPHONE OR COMPUTER](https://alex-esc.github.io/bonfire/download) 
 
 *free of charge!*
+adada
+adada
+da
+d
+ad
+a
+da
+d
+ad
+a
+da
+da
+d
+ad
+a
+da
+dad
 
 ![](images/1.jpg)
 
