@@ -6,7 +6,7 @@
 
 Play a song with a simple rhythm track! BONFIRE is a simple drum sequencer built to play along with you. BONFIRE is great for playing acoustic and unplugged covers.
 
-## [DOANLOAD FOR SMARTPHONE](https://github.com/alex-esc/bonfire/blob/main/Downloads/BONFIRE%20DRUM%20MACHINE%20for%20smartphone%20(version%20alpha%201a).zip) | [DOAWNLAOD FOR COMPUTER](https://github.com/alex-esc/bonfire/blob/main/Downloads/BONFIRE%20DRUM%20MACHINE%20for%20computer%20(version%20alpha%201a).zip)
+## [DOANLOAD FOR SMARTPHONE](https://github.com/alex-esc/bonfire/raw/main/Downloads/BONFIRE%20DRUM%20MACHINE%20for%20smartphone%20(version%20alpha%201a).zip) | [DOAWNLAOD FOR COMPUTER](https://github.com/alex-esc/bonfire/raw/main/Downloads/BONFIRE%20DRUM%20MACHINE%20for%20computer%20(version%20alpha%201a).zip)
 
 *Installation instructions below!*
 
