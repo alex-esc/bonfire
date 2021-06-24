@@ -24,4 +24,4 @@
 Remember that you need to install MobMuPlat before extracting the files, if you can't find the MobMuPlat folder you should see if the app was properly installed
 
 * [Step by step instructions with pictures for Android](https://imgur.com/a/PUhzggV)
-* [Step by step instructions with pictures for iPhone and iPad](https://imgur.com/a/PUhzggV)
+* [Step by step instructions with pictures for iPhone and iPad](https://imgur.com/a/uFGNVon)

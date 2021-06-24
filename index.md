@@ -13,7 +13,6 @@ Play a song with a simple rhythm track! BONFIRE is a simple drum sequencer built
 
 ![](images/1.jpg)
 
-go on!
 
 ## Play on the go
 
@@ -43,19 +42,7 @@ BONFIRE was built on a free and open source synthesis and programming engine cal
 
 # How to install BONFIRE
 
-## BONFIRE for Mac, PC, and Linux
-
-You need to install Pure Data for this sequencer to run. [Get pure data here](http://puredata.info/downloads/pure-data). Then open the file that ends with `.pd` with Pure Data and enjoy!
-
-## BONFIRE for your phone or tablet
-
-### Android, iPhones & iPad
-
-1. Download and install MobMuPlat *([iPhone/iPad](https://apps.apple.com/us/app/mobmuplat/id597679399) or [Android/Samsung](https://play.google.com/store/apps/details?id=com.iglesiaintermedia.mobmuplat&hl=en_US&gl=US))*, this app runs desktop pure data apps like BONFIRE on your phone.
-
-2. Now click here to download BONFIRE, next you need to extract the contents on the MobMuPlat folder. Here's a small guide, scroll down to the section called ["Loading it onto your device"](https://danieliglesia.com/mobmuplat/doc/index.htm).
-
-3. Now open the MobMuPlat app and browse the list of patches until you see the sequencer and tap on it to open it.
+Head over to the [downloads page](https://alex-esc.github.io/bonfire/download).
 
 ## Why I made BONFIRE:
 
